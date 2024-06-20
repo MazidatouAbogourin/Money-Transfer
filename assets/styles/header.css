@@ -1,0 +1,43 @@
+header{
+background-color: #386434;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 25px 10%;
+color: #edf0f1;
+}
+li a {
+  
+  font-family: 500;
+  font-size: 16px;
+  color : #edf0f1;
+  text-decoration: none;
+}
+.logo{
+  cursor: pointer;
+}
+.nav-list{
+  list-style: none;
+  
+}
+.nav-list li{
+  display: inline-block;
+  padding: 0px 25px;
+}
+li a:hover{
+  color: #5ea758;
+}
+
+button{
+  background-color: rgb(94, 167, 88) ;
+  padding: 9px 20px;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+button:hover{
+  background-color: #386434;
+  color: white;
+  border: 1px solid white;
+}

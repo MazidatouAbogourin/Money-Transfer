@@ -1,0 +1,35 @@
+
+li {
+  padding: 20px;
+}
+
+#wrapper{
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.card{
+  border-radius: 20px;
+  width: 250px;
+  text-align: center;
+  padding: 20px;
+}
+.card h4{
+  font-weight: bolder;
+}
+.card h1{
+  font-weight: bolder;
+  font-size: 30px;
+}
+#stats{
+  margin-left: 50px;
+  margin-top: 20px;
+  font-weight: bolder;
+  font-size: 30px;
+  color: black;
+}
